@@ -6,4 +6,4 @@ Hardware Used:
 - Adafruit MMA8451 Accelerometer Breakout
 - DFPlayer Mini MP3 Module
 
-Plays specific sound files stored on microSD in mp3 module. 
+Plays specific sound files stored on microSD in mp3 module based on accelerometer movement.
